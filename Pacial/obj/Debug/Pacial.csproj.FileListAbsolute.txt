@@ -1,0 +1,51 @@
+C:\Users\ntl99\Documents\ing de software\tp\Pacial\Pacial\bin\Debug\Pacial.exe.config
+C:\Users\ntl99\Documents\ing de software\tp\Pacial\Pacial\bin\Debug\Pacial.exe
+C:\Users\ntl99\Documents\ing de software\tp\Pacial\Pacial\bin\Debug\Pacial.pdb
+C:\Users\ntl99\Documents\ing de software\tp\Pacial\Pacial\obj\Debug\Pacial.csprojResolveAssemblyReference.cache
+C:\Users\ntl99\Documents\ing de software\tp\Pacial\Pacial\obj\Debug\MainWindow.g.cs
+C:\Users\ntl99\Documents\ing de software\tp\Pacial\Pacial\obj\Debug\App.g.cs
+C:\Users\ntl99\Documents\ing de software\tp\Pacial\Pacial\obj\Debug\Pacial_MarkupCompile.cache
+C:\Users\ntl99\Documents\ing de software\tp\Pacial\Pacial\obj\Debug\Pacial_MarkupCompile.lref
+C:\Users\ntl99\Documents\ing de software\tp\Pacial\Pacial\obj\Debug\MainWindow.baml
+C:\Users\ntl99\Documents\ing de software\tp\Pacial\Pacial\obj\Debug\Pacial.g.resources
+C:\Users\ntl99\Documents\ing de software\tp\Pacial\Pacial\obj\Debug\Pacial.Properties.Resources.resources
+C:\Users\ntl99\Documents\ing de software\tp\Pacial\Pacial\obj\Debug\Pacial.csproj.GenerateResource.cache
+C:\Users\ntl99\Documents\ing de software\tp\Pacial\Pacial\obj\Debug\Pacial.csproj.CoreCompileInputs.cache
+C:\Users\ntl99\Documents\ing de software\tp\Pacial\Pacial\obj\Debug\Pacial.exe
+C:\Users\ntl99\Documents\ing de software\tp\Pacial\Pacial\obj\Debug\Pacial.pdb
+C:\Users\ntl99\Documents\ing de software\tp\Pacial\Pacial\obj\Debug\Buscar.g.cs
+C:\Users\ntl99\Documents\ing de software\tp\Pacial\Pacial\obj\Debug\Buscar.baml
+C:\Users\ntl99\Desktop\P_IngSoft\Pacial\bin\Debug\Pacial.exe.config
+C:\Users\ntl99\Desktop\P_IngSoft\Pacial\bin\Debug\Pacial.exe
+C:\Users\ntl99\Desktop\P_IngSoft\Pacial\bin\Debug\Pacial.pdb
+C:\Users\ntl99\Desktop\P_IngSoft\Pacial\obj\Debug\Pacial.csprojAssemblyReference.cache
+C:\Users\ntl99\Desktop\P_IngSoft\Pacial\obj\Debug\MainWindow.g.cs
+C:\Users\ntl99\Desktop\P_IngSoft\Pacial\obj\Debug\Buscar.g.cs
+C:\Users\ntl99\Desktop\P_IngSoft\Pacial\obj\Debug\App.g.cs
+C:\Users\ntl99\Desktop\P_IngSoft\Pacial\obj\Debug\Pacial_MarkupCompile.cache
+C:\Users\ntl99\Desktop\P_IngSoft\Pacial\obj\Debug\Pacial_MarkupCompile.lref
+C:\Users\ntl99\Desktop\P_IngSoft\Pacial\obj\Debug\MainWindow.baml
+C:\Users\ntl99\Desktop\P_IngSoft\Pacial\obj\Debug\Buscar.baml
+C:\Users\ntl99\Desktop\P_IngSoft\Pacial\obj\Debug\Pacial.g.resources
+C:\Users\ntl99\Desktop\P_IngSoft\Pacial\obj\Debug\Pacial.Properties.Resources.resources
+C:\Users\ntl99\Desktop\P_IngSoft\Pacial\obj\Debug\Pacial.csproj.GenerateResource.cache
+C:\Users\ntl99\Desktop\P_IngSoft\Pacial\obj\Debug\Pacial.csproj.CoreCompileInputs.cache
+C:\Users\ntl99\Desktop\P_IngSoft\Pacial\obj\Debug\Pacial.exe
+C:\Users\ntl99\Desktop\P_IngSoft\Pacial\obj\Debug\Pacial.pdb
+C:\Users\Natalia\Desktop\Ing_Sof final\Pacial\bin\Debug\Pacial.exe.config
+C:\Users\Natalia\Desktop\Ing_Sof final\Pacial\bin\Debug\Pacial.exe
+C:\Users\Natalia\Desktop\Ing_Sof final\Pacial\bin\Debug\Pacial.pdb
+C:\Users\Natalia\Desktop\Ing_Sof final\Pacial\obj\Debug\Pacial.csprojAssemblyReference.cache
+C:\Users\Natalia\Desktop\Ing_Sof final\Pacial\obj\Debug\MainWindow.g.cs
+C:\Users\Natalia\Desktop\Ing_Sof final\Pacial\obj\Debug\Buscar.g.cs
+C:\Users\Natalia\Desktop\Ing_Sof final\Pacial\obj\Debug\App.g.cs
+C:\Users\Natalia\Desktop\Ing_Sof final\Pacial\obj\Debug\Pacial_MarkupCompile.cache
+C:\Users\Natalia\Desktop\Ing_Sof final\Pacial\obj\Debug\Pacial_MarkupCompile.lref
+C:\Users\Natalia\Desktop\Ing_Sof final\Pacial\obj\Debug\MainWindow.baml
+C:\Users\Natalia\Desktop\Ing_Sof final\Pacial\obj\Debug\Buscar.baml
+C:\Users\Natalia\Desktop\Ing_Sof final\Pacial\obj\Debug\Pacial.g.resources
+C:\Users\Natalia\Desktop\Ing_Sof final\Pacial\obj\Debug\Pacial.Properties.Resources.resources
+C:\Users\Natalia\Desktop\Ing_Sof final\Pacial\obj\Debug\Pacial.csproj.GenerateResource.cache
+C:\Users\Natalia\Desktop\Ing_Sof final\Pacial\obj\Debug\Pacial.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\Desktop\Ing_Sof final\Pacial\obj\Debug\Pacial.exe
+C:\Users\Natalia\Desktop\Ing_Sof final\Pacial\obj\Debug\Pacial.pdb
