@@ -1,1 +1,1 @@
-# Parcial de la materia Ingeieria de Software. ABM en lenguaje C#
+# Parcial de la materia Ingenieria de Software. ABM en lenguaje C#
